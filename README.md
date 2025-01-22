@@ -1,4 +1,4 @@
-![MNIST Digits Image](https://lh3.googleusercontent.com/proxy/CchHZ2LdZKb9Bf976EjCanI7-VcKVR8iEwArZZ5g2luhRyBNcGJs6p2sGLjYg8RhSZuGEV8wANYCIQzI0-wAdKcy)
+![MNIST Digits Image](https://en.wikipedia.org/wiki/File:MNIST_dataset_example.png)
 # MNIST-Digit-classification-using-Deep-Learning
 This repository provides a comprehensive implementation for classifying handwritten digits (0-9) from the MNIST dataset using deep learning. The project covers the entire workflow, from data preprocessing and visualization to training, evaluation, and result analysis, making it an excellent resource for learning and applying deep learning techniques to image classification tasks.
 
